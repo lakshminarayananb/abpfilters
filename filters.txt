@@ -45,8 +45,8 @@ www.dtnext.in##.exclude-font-change.popup-ad-content-wrap
 substack.com##._popoverButtons_qpqz8_28.pc-borderRadius-md.pc-reset.pc-padding-4.pc-gap-8.pc-flexDirection-column.pc-display-flex.pencraft
 
 ! 10-Jun-2024 https://www.nytimes.com
-www.nytimes.com##.kbxNNL.sc-bb764264-0
-www.theathletic.com##.kbxNNL.sc-bb764264-0
+nytimes.com##.kbxNNL.sc-bb764264-0
+theathletic.com##.kbxNNL.sc-bb764264-0
 
 ! www.thehindu.com
 www.thehindu.com##.read-in-app-floating-btn
