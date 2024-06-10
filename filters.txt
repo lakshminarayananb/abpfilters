@@ -33,6 +33,7 @@ m.economictimes.com##[src='/_assets/images/gift_icon.png"]
 
 ! 2024-04-19 https://theponzipapers.substack.com
 ||._popoverButtons_1dtnr_29.pc-borderRadius-md.pc-reset.pc-padding-4.pc-gap-8.pc-flexDirection-column.pc-display-flex.pencraft
+||##._popover_qpqz8_17
 
 ! change font on nytimes because bottom cutting off in nyt-imperial font when selecting
 nytimes.com##*:style(font-family: "georgia" !important; src: local(georgia) !important;)
