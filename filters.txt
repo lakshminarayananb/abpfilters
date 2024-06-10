@@ -1,5 +1,6 @@
 ! 2023-11-08 https://www.livemint.com
 www.livemint.com##.subscribeNow
+www.livemint.com##.mobileshare
 
 ! 2023-11-15 https://mail.zoho.in
 mail.zoho.in##.shw.bt.minwid.zmsmartMenu.SC_arm
