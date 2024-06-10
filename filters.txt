@@ -1,0 +1,49 @@
+! 2023-11-08 https://www.livemint.com
+www.livemint.com##.subscribeNow
+
+! 2023-11-15 https://mail.zoho.in
+mail.zoho.in##.shw.bt.minwid.zmsmartMenu.SC_arm
+
+! 2023-11-21 https://the-ken.com
+the-ken.com###textSelectionTooltipContainer
+
+! 2024-01-08 https://www.reddit.com
+www.reddit.com##embed-snippet-share-button
+
+! 2024-01-13 https://www.technofino.in
+www.technofino.in###js-XFUniqueId173 > .tooltip-content
+
+! 2024-01-19 https://www.skyscrapercity.com
+www.skyscrapercity.com##.tooltip-content
+
+! Google sign-in popup
+||accounts.google.com/gsi/*$xhr,script,3p
+
+! Google Login
+||reddit.com/svc/shreddit/experiences?names=google_one_tap&page_type=popular
+
+! 2024-04-14 https://bfsi.economictimes.indiatimes.com
+bfsi.economictimes.indiatimes.com###news_dtl_109178103 > .article-section__body > .article-section__body__news > div.article-detail-ad-slot > .mrec-ads-slot
+bfsi.economictimes.indiatimes.com##.sharect
+bfsi.economictimes.indiatimes.com##.article-detail-ad-slot
+m.economictimes.com##.downloadApp
+m.economictimes.com##[src='/_assets/images/gift_icon.png"]
+
+! 2024-04-19 https://theponzipapers.substack.com
+||._popoverButtons_1dtnr_29.pc-borderRadius-md.pc-reset.pc-padding-4.pc-gap-8.pc-flexDirection-column.pc-display-flex.pencraft
+
+! change font on nytimes because bottom cutting off in nyt-imperial font when selecting
+nytimes.com##*:style(font-family: "georgia" !important; src: local(georgia) !important;)
+
+! 2024-05-15 https://www.dtnext.in
+www.dtnext.in##.exclude-font-change.center-content
+www.dtnext.in##.exclude-font-change.popup-ad-content-wrap
+
+! 2024-05-21 https://substack.com
+substack.com##._popoverButtons_qpqz8_28.pc-borderRadius-md.pc-reset.pc-padding-4.pc-gap-8.pc-flexDirection-column.pc-display-flex.pencraft
+
+! 10-Jun-2024 https://www.nytimes.com
+www.nytimes.com##.kbxNNL.sc-bb764264-0
+
+! www.thehindu.com
+www.thehindu.com##.read-in-app-floating-btn
