@@ -44,6 +44,7 @@ substack.com##._popoverButtons_qpqz8_28.pc-borderRadius-md.pc-reset.pc-padding-4
 
 ! 10-Jun-2024 https://www.nytimes.com
 www.nytimes.com##.kbxNNL.sc-bb764264-0
+www.theathletic.com##.kbxNNL.sc-bb764264-0
 
 ! www.thehindu.com
 www.thehindu.com##.read-in-app-floating-btn
