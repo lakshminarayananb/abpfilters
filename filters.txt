@@ -36,6 +36,7 @@ m.economictimes.com##[src='/_assets/images/gift_icon.png"]
 
 ! change font on nytimes because bottom cutting off in nyt-imperial font when selecting
 nytimes.com##*:style(font-family: "georgia" !important; src: local(georgia) !important;)
+nytimes.com###subscriber-recirculation-bottom-sheet
 
 ! 2024-05-15 https://www.dtnext.in
 www.dtnext.in##.exclude-font-change.center-content
