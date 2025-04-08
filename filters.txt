@@ -1,7 +1,11 @@
 ! 2023-11-08 https://www.livemint.com
 www.livemint.com##.subscribeNow
 www.livemint.com##.mobileshare
+www.livemint.com###btmMenu
 www.livemint.com###btmMenuDiv
+www.livemint.com##.swg-dialog
+www.livemint.com###ECH_LM_NONAMP_ALL_POPUP_ATF
+www.livemint.com##.contentBoxPoll
 
 ! 2023-11-15 https://mail.zoho.in
 mail.zoho.in##.shw.bt.minwid.zmsmartMenu.SC_arm
@@ -30,6 +34,7 @@ bfsi.economictimes.indiatimes.com##.sharect
 bfsi.economictimes.indiatimes.com##.article-detail-ad-slot
 m.economictimes.com##.downloadApp
 m.economictimes.com##[src='/_assets/images/gift_icon.png']
+||m.economictimes.com/iframe_cube.cms$subdocumentl
 
 ! 2024-04-19 https://theponzipapers.substack.com
 ||._popoverButtons_1dtnr_29.pc-borderRadius-md.pc-reset.pc-padding-4.pc-gap-8.pc-flexDirection-column.pc-display-flex.pencraft
